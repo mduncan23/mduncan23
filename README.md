@@ -9,7 +9,8 @@
 I became a data scientist because I’m passionate about creative problem solving and I enjoy teaching others about the insights I have gained through my work. I want to apply my love of science and data to challenges where I can have an impact and help others.
 
 ## What I'm up to:
-- 🌱 I’m currently working on my AWS certification through their Data Analytics Learning Plan
+- 🔭 I’m currently working on a model to detect [Hotel Cancellations](https://github.com/mduncan23/Hotel_Cancellation_Predictor)
+- 🌱 I’m also working on my AWS certification through their Data Analytics Learning Plan
 - 👯 Open to collaborate on data and machine learning projects that tell interesting stories
 - 🗽 NYC-based
 - ⚡ Fun fact: I love traveling and visiting new places with my family!
